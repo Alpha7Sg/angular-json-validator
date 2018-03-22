@@ -1,4 +1,6 @@
 {
+  "name": "angular-json-validator",
+  "version": "1.0.0",
   "devDependencies": {
     "gulp": "~3.8.7",
     "karma": "~0.12.21",
